@@ -7,7 +7,7 @@ Lil Grand Films is a webpage that provides potiental clients with everything thi
 
 ### Project Links
 
-- [Front end git]("https://github.com/Ahart266/LilGrand")
+- [Front end git](https://github.com/Ahart266/LilGrand)
 
 ### User Stories
 
@@ -33,6 +33,8 @@ Lil Grand Films is a webpage that provides potiental clients with everything thi
 [Media](https://res.cloudinary.com/twin2052000/image/upload/v1602017926/Desktop%20Media%20Page.png)
 [Services](https://res.cloudinary.com/twin2052000/image/upload/v1602017932/Desktop%20Services%20Page.png)
 [Contact](https://res.cloudinary.com/twin2052000/image/upload/v1602017937/Desktop%20Contact%20Page.png)
+
+ [Website Reference example](https://www.evanranft.com/#home-2-section)
 
 #### Component Tree
 
@@ -77,7 +79,9 @@ Lil Grand Films is a webpage that provides potiental clients with everything thi
     every other component tab leads to another page )
 #### Home Page
 
-- Create video background ( loops over and over )
+- Create video background ( loops over and over ) 
+  [Reference Example of video background](https://motionminds.com/welcome)
+  
 - Contact button   ( takes users to the contact page )
 - About section    ( photos of the lil grand work )
 - Footer
