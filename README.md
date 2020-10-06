@@ -42,22 +42,22 @@ Lil Grand Films is a webpage that provides potiental clients with everything thi
 
 | Component                    | Priority | Estimated Time | Time Invested |
 | --------------------------   | :----:   |  :-----------: | :-----------: |
-| Nav Bar (Setup)              |    H     |      6hrs      |     6hrs      |                                                                          |                                                                          |
-| Home Page ( About )          |    H     |      1hrs      |     1hr       |
+| Nav Bar (Setup)              |    H     |      6hrs      |     0hr       |                                                                          |                                                                          |
+| Home Page ( About )          |    H     |      1hrs      |     0hr       |
 |                                                                          |
-| Home Page (styling/bg video) |    M     |      8hrs      |     4hr       |                                                                          |                                                                          |
-| Frontend setup/Connect       |    H     |      6hrs      |     4hr       |  
+| Home Page (styling/bg video) |    M     |      8hrs      |     0hr       |                                                                          |                                                                          |
+| Frontend setup/Connect       |    H     |      6hrs      |     0hr       |  
 |                                                                          |
-| Figma (Research)             |    H     |      8hrs      |     0         |                                                                          |                                                                          |
-| Instagram (layout/links)     |    L     |      7hrs      |     5hr       |                                                                          |                                                                          |
-| Contact (pic / email )       |    H     |      4hrs      |      0        |                                                                          |                                                                          | 
-| Services (videos/ thumbs)    |    M     |      5hrs      |     7hrs      |                                                                          |                                                                          |
-| Deploy Frontend (neflify)    |    H     |      7hrs      |     0         |                                                                          |                                                                          |
-| Project Planning             |    H     |      3hrs      |    3hrs       |                                                                          |                                                                          |
-| Documentation Updating       |    H     |      2hrs      |    2hrs       |                                                                          |                                                                          |
-| General Debugging            |    H     |     12hrs      |    4hrs       |                                                                           |                                                                          |
-| Choosing Fonts/Colors        |    L     |      3hrs      |    3hrs       | 
-| Total                        |          |     142hrs     |    50hrs      |                                                                          |                              |          |                |               |
+| Figma (Research)             |    H     |      2hrs      |     0hr       |                                                                          |                                                                          |
+| Instagram (layout/links)     |    L     |      8hrs      |     0hr       |                                                                          |                                                                          |
+| Contact (pic / email )       |    H     |      4hrs      |     0hr       |                                                                          |                                                                          | 
+| Services (videos/ thumbs)    |    M     |      8hrs      |     0hr       |                                                                          |                                                                          |
+| Deploy Frontend (neflify)    |    H     |      4hrs      |     0hr       |                                                                          |                                                                          |
+| Project Planning             |    H     |      6hrs      |     0hr       |                                                                          |                                                                          |
+| Documentation Updating       |    H     |      6hrs      |     0hr       |                                                                          |                                                                          |
+| General Debugging            |    H     |     12hrs      |     0hr       |                                                                           |                                                                          |
+| Choosing Fonts/Colors        |    L     |      3hrs      |     0hr       | 
+| Total                        |          |     74hrs      |     0hr       |                                                                          |                              |          |                |               |
 
 ## MVP/Post-MVP
 
@@ -72,27 +72,36 @@ Lil Grand Films is a webpage that provides potiental clients with everything thi
 - Instagram
 - Services
 - Contact
-- logo design
+- logo design ( He wants this to be clickable and takes users back to the home page )
+- ( He wants the nav bar to live at the top of the page and when the user clicks media component, the view jumps to the about section of the home page
+    every other component tab leads to another page )
 #### Home Page
 
-- Create video background
-- Contact button
-- About section
+- Create video background ( loops over and over )
+- Contact button   ( takes users to the contact page )
+- About section    ( photos of the lil grand work )
 - Footer
 
-#### Instagram Page
+#### Media Page
 
 - Grid layout of instagram posts
-- link to Lil grand instagram page
-- Title 
+- Link to Lil grand instagram page ( he wants when a user clicks on thumbnail it directs users to that particular post on his instagram page )
+- Title  ( INSTAGRAM ) 
+- Video and Subscribe to Youtube button ( he wants when a user clicks the video thumb it plays from the Youtube account, and Subscribe button takes  
+                                           users to home page on Youtube to subscribe )
 
 
 #### Services Page
 
 
-- Title
-- Videos linking to youtube full link
+- Title ( INSTAGRAM )
+- Videos linking to youtube full link ( he wants when you click on the video thumb nail it directs users to that video on his youtube page )
 - Footer
+
+#### Contact Page
+- Title ( CONTACT ) 
+- Cover pic 
+- Input contact form ( he wants when the users submit enteries it goes to his email directly )
 
 
 ### Post-MVP
@@ -112,11 +121,11 @@ Lil Grand Films is a webpage that provides potiental clients with everything thi
 
 ```
 
-## Additional Libraries
+## Resources / Additional Libraries
 - Axios
 - React
 - Figma
 - Javascript
 - Scass
-- lax
 - Netlify 
+- Cloudinary 
