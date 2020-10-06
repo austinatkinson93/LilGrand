@@ -36,7 +36,7 @@ Lil Grand Films is a webpage that provides potiental clients with everything thi
 
 #### Component Tree
 
-[ Lil Grand films Components](https://res.cloudinary.com/twin2052000/image/upload/v1597025568/Capstone/20200809_204150_x0syqa.jpg)
+[ Lil Grand films Components](https://res.cloudinary.com/twin2052000/image/upload/v1602021359/Lil%20Grand%20Component%20tree.png)
 
 ### Time/Priority Matrix
 
