@@ -22,16 +22,16 @@ Lil Grand Films is a webpage that provides potiental clients with everything thi
 
 #### Mobile 
 
-[Home / About](https://res.cloudinary.com/twin2052000/image/upload/v1602017892/Mobile%20Home%20/%20About%20Page.png)
-[Media](https://res.cloudinary.com/twin2052000/image/upload/v1602017896/Mobile%20Media%20Page.png)
-[Services](https://res.cloudinary.com/twin2052000/image/upload/v1602017906/Mobile%20Services%20Page.png)
+[Home / About](https://res.cloudinary.com/twin2052000/image/upload/v1602017892/Mobile%20Home%20/%20About%20Page.png),
+[Media](https://res.cloudinary.com/twin2052000/image/upload/v1602017896/Mobile%20Media%20Page.png),
+[Services](https://res.cloudinary.com/twin2052000/image/upload/v1602017906/Mobile%20Services%20Page.png),
 [Contact](https://res.cloudinary.com/twin2052000/image/upload/v1602017901/Mobile%20Contact%20Page.png)
 
 #### Desktop
 
-[Home / About](https://res.cloudinary.com/twin2052000/image/upload/v1602017913/Desktop%20Home%20/%20About%20Page.png)
-[Media](https://res.cloudinary.com/twin2052000/image/upload/v1602017926/Desktop%20Media%20Page.png)
-[Services](https://res.cloudinary.com/twin2052000/image/upload/v1602017932/Desktop%20Services%20Page.png)
+[Home / About](https://res.cloudinary.com/twin2052000/image/upload/v1602017913/Desktop%20Home%20/%20About%20Page.png),
+[Media](https://res.cloudinary.com/twin2052000/image/upload/v1602017926/Desktop%20Media%20Page.png),
+[Services](https://res.cloudinary.com/twin2052000/image/upload/v1602017932/Desktop%20Services%20Page.png),
 [Contact](https://res.cloudinary.com/twin2052000/image/upload/v1602017937/Desktop%20Contact%20Page.png)
 
  [Website Reference example](https://www.evanranft.com/#home-2-section)
